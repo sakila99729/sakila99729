@@ -1,40 +1,38 @@
-KD Jayakody
+Sakila Sandanuwan
+<div align="center">
 Typing SVG
 
-GitHub followers Twitter Follow LinkedIn Email
+GitHub followersTwitter FollowLinkedInEmail
 
-Profile Views
+<img src="https://komarev.com/ghpvc/?username=sakilasandanuwan&color=3ABFEF&style=flat-square&label=Profile+Views" alt="Profile Views" /> </div>
 👨‍💻 About Me
-const Sakila99729 = {
+typescript
+
+Verify
+
+Open In Editor
+Run
+Copy code
+const SakilaSandanuwan = {
     location: "Sri Lanka 🇱🇰",
-    education: "MBA & IT Specialist",
-    roles: ["Full Stack Developer", "Cloud Architect", "AI Enthusiast"],
-    currentFocus: ["Operating Systems", "Cloud Architecture", "Advanced System Design"],
+    education: "BSc Software Enginner",
+    roles: ["Full Stack Developer", ".Net Developer"],
+    currentFocus: ["Operating Systems", "Dev Ops", "IOT Developments"],
     communities: {
-        founder: ["KDJ Community"],
-        member: ["AI Sri Lanka", "OpenAI Developers"]
+        founder: ["Sakila Community"]
     },
     lifePhilosophy: "Learning something new every day 🚀"
 };
 🛠️ Tech Arsenal
+<div align="center">
 Core Technologies
-Python TypeScript JavaScript C++
+PythonTypeScriptJavaScriptC++
 
 Web Technologies
-HTML5 CSS3 FastAPI Node.js
+HTML5CSS3FastAPINode.js.NetAsp.Net
 
 DevOps & Cloud
-Docker Kubernetes AWS Azure
+DockerKubernetesAWSAzure
 
 Tools & Systems
-Linux Git VSCode Vim
-
-📊 GitHub Analytics
- 
-
-🤝 Connect & Collaborate
-Portfolio LinkedIn Twitter Instagram Email
-
-💡 Open to collaborating on Educational Tech, AI Projects, and Linux Tools!
-
-Wave
+LinuxGit
