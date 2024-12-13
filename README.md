@@ -1,16 +1,40 @@
-## Hi there 👋
+KD Jayakody
+Typing SVG
 
-<!--
-**sakila99729/sakila99729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+GitHub followers Twitter Follow LinkedIn Email
 
-Here are some ideas to get you started:
+Profile Views
+👨‍💻 About Me
+const Sakila99729 = {
+    location: "Sri Lanka 🇱🇰",
+    education: "MBA & IT Specialist",
+    roles: ["Full Stack Developer", "Cloud Architect", "AI Enthusiast"],
+    currentFocus: ["Operating Systems", "Cloud Architecture", "Advanced System Design"],
+    communities: {
+        founder: ["KDJ Community"],
+        member: ["AI Sri Lanka", "OpenAI Developers"]
+    },
+    lifePhilosophy: "Learning something new every day 🚀"
+};
+🛠️ Tech Arsenal
+Core Technologies
+Python TypeScript JavaScript C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web Technologies
+HTML5 CSS3 FastAPI Node.js
+
+DevOps & Cloud
+Docker Kubernetes AWS Azure
+
+Tools & Systems
+Linux Git VSCode Vim
+
+📊 GitHub Analytics
+ 
+
+🤝 Connect & Collaborate
+Portfolio LinkedIn Twitter Instagram Email
+
+💡 Open to collaborating on Educational Tech, AI Projects, and Linux Tools!
+
+Wave
